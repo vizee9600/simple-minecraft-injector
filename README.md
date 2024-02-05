@@ -1,2 +1,2 @@
 # Simple minecraft injector
- Simple method for injecting .DLL into minecraft processes
+ Simple method for injecting .DLL with Load-Library method into minecraft processes
