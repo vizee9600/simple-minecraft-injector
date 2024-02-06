@@ -19,6 +19,8 @@ void rndmTitle() {
 
 int main(int argc, char** argv) {
 
+ rndmTitle();
+
 	string path;
 
 	cout << "Path to .DLL: " << endl;
